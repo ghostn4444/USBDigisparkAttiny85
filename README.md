@@ -1,7 +1,6 @@
-# Pendrive Hacker 📌
+# Digispark Attiny85 🏴‍☠️ [Pendrive Hacker] 📌
 
-### 💾 Rubber Ducky USB 🏴‍☠️
-### 💾 Digispark Attiny85 🏴‍☠️
+### 
 
 <br/>
 
