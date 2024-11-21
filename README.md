@@ -1,8 +1,6 @@
-# Digispark Attiny85 🏴‍☠️ [Pendrive Hacker] 📌
-
-### 
-
-<br/>
+<div width="100%" align="center">
+  <img alt="Ghostn4444-ARDUINO" height="150" width="150" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" /> <h1>Digispark Attiny85 <br> [Pendrive Hacker]</h1>
+</div>
 
 # Functions 📌
 
@@ -15,6 +13,7 @@
 
 <br/>
 
+#
 # Keyboards 📌
 
 ### American keyboard (inglês Default) [⌨ 🇺🇸]
